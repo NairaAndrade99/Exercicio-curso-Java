@@ -7,6 +7,7 @@ public class App {
 
         int num = sc.nextInt();
         System.out.println(" ");
+        
         for (int i = 1; i < num + 1; i++) {
 
             if (num % i == 0){
