@@ -21,7 +21,7 @@ Considere o valor de π = 3.14159
 
         double area = Math.PI * Math.pow(raioCirculo, 2);
 
-        System.out.println("Area = "+ area);
+        System.out.printf("Area = %.2f ", area);
         
     }
 }

@@ -34,9 +34,9 @@ public class App {
            
          System.out.println("Muito obrigada ");
 
-          System.out.println("\n Álcool: " + alco +
-                             "\n Gasolina: " + gaso +
-                             "\n Diesel: "+ die);
+          System.out.printf("\n Álcool: %d" , alco +
+                             "\n Gasolina: %d" , gaso +
+                             "\n Diesel: %d", die);
          
         System.out.println("\n ");
         

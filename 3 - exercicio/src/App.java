@@ -13,6 +13,6 @@ public class App {
         
         int diferenca = (a * b - c * d);
 
-        System.out.println("Diferenca = " + diferenca);
+        System.out.printf("Diferenca = %d", diferenca);
     }  
 }

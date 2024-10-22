@@ -25,7 +25,7 @@ public class App {
               pagar += numPeca[i] * valorUni[i];
              
          }
-         System.out.println("Valor a pagar R$ " + pagar);
+         System.out.printf("Valor a pagar R$ %.2f ", pagar);
          
     }
 }

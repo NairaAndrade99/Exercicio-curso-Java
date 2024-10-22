@@ -11,7 +11,7 @@ public class App {
 
        int soma = numUm + numDois;
 
-       System.out.println("Soma = " + soma);
+       System.out.printf("Soma = %d ", soma);
 
         
     }

@@ -17,11 +17,11 @@ public class App {
        float areaQuadrado = b * b;
        float areaRetangulo = a * b;
 
-       System.out.println("Area do Triangulo = " + areaTriangulo);
-       System.out.println("Area do circulo = " + areaCirculo);
-       System.out.println("Area do trapezio = " + areaTrapezio);
-       System.out.println("Area do quadrado = " + areaQuadrado);
-       System.out.println("Area do retangulo = " + areaRetangulo);
+       System.out.printf("Area do Triangulo = %.2f " ,areaTriangulo);
+       System.out.printf("Area do circulo = %.2f " , areaCirculo);
+       System.out.printf("Area do trapezio = %.2f " , areaTrapezio);
+       System.out.printf("Area do quadrado = %.2f " , areaQuadrado);
+       System.out.printf("Area do retangulo = %.2f " , areaRetangulo);
        
         
 

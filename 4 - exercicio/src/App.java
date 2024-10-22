@@ -17,8 +17,8 @@ public class App {
         double salario = horaTraba * valorHora;
 
         System.out.println("\n--------------------------");
-        System.out.println("Id:  " + id);
-        System.out.println("Salario R$ " + salario);
-        System.out.println("---------------------------");
+        System.out.printf(" Id: %d ", id);
+        System.out.printf(" \n Salario R$ %.2f", salario);
+        System.out.println(" \n ---------------------------");
     }
 }

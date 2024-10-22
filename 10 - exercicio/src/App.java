@@ -24,7 +24,7 @@ public class App {
             duracao = 24;
         }
 
-        System.out.println("A duração do jogo foi de " + duracao + " horas.");
+        System.out.printf("A duração do jogo foi de %d horas." , duracao);
 
 
     }
