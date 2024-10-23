@@ -6,3 +6,4 @@ Fórmula da área: area = π . raio2
 Considere o valor de π = 3.14159 
 
 ##
+![alt text](image.png)
